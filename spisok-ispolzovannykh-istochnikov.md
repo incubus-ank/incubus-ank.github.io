@@ -11,3 +11,5 @@
 9. TB6612 datasheet [https://www.sparkfun.com/datasheets/Robotics/TB6612FNG.pdf](https://www.sparkfun.com/datasheets/Robotics/TB6612FNG.pdf)
 10. Git репозиторий проекта [https://github.com/incubus-ank/marshmallow](https://github.com/incubus-ank/marshmallow)
 11. Методические указания по работе с платформой [https://kpahyx.gitbook.io/marshmallow/](https://kpahyx.gitbook.io/marshmallow/)
+12. Статья про работу с MPU6050 [http://jurnal.nips.ru/sites/default/files/AaSI-3-2018-1.pdf](http://jurnal.nips.ru/sites/default/files/AaSI-3-2018-1.pdf)
+13. Статья про работу ssd1306 [https://habr.com/ru/post/313490/](https://habr.com/ru/post/313490/)
