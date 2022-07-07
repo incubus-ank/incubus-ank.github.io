@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📕 Marshmello](README.md)
-* [🗺 Roadmap](roadmap.md)
+* [TO-DO](to-do.md)
 * [📚 Список использованных источников](spisok-ispolzovannykh-istochnikov.md)
 
 ## ⚙ Техническое оснащение
@@ -13,6 +13,7 @@
 
 ## 🎮 Гайды
 
+* [Как пользоваться роботом?](gaidy/kak-polzovatsya-robotom.md)
 * [Установка Ubuntu 20.04](gaidy/ustanovka-ubuntu-20.04.md)
 * [SSH](gaidy/ssh.md)
 * [netplan](gaidy/netplan.md)
